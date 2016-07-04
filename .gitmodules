@@ -1,0 +1,12 @@
+[submodule "Open Closed Principle (SOLID)/arithmetic"]
+	path = Open Closed Principle (SOLID)/arithmetic
+	url = https://github.com/tilm4nn/ccd-ocp-arithmetic.git
+[submodule "Favor Composition over Inheritance/events"]
+	path = Favor Composition over Inheritance/events
+	url = https://github.com/tilm4nn/ccd-fcoi-events.git
+[submodule "Separation of Concerns/csvmax"]
+	path = Separation of Concerns/csvmax
+	url = https://github.com/tilm4nn/ccd-soc-csvmax.git
+[submodule "Single Level of Abstraction/objecttojson"]
+	path = Single Level of Abstraction/objecttojson
+	url = https://github.com/tilm4nn/ccd-sla-objecttojson.git
